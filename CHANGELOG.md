@@ -4,6 +4,10 @@ All Notable changes to `laravel-menus` will be documented in this file.
 
 ## Next
 
+### Added
+
+- Laravel 7 support
+
 ## 6.0.0 - 2020-11-11
 
 ### Added
