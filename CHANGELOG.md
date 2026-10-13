@@ -2,6 +2,12 @@
 
 All Notable changes to `laravel-menus` will be documented in this file.
 
+## 9.0.0 - Laravel 9 support
+
+- Drop support for Laravel 7 and 8.
+- Require PHP 8.0 or higher.
+- Update the test suite to Laravel 9 and PHPUnit 9.
+
 ## Next
 
 ### Added
