@@ -2,6 +2,12 @@
 
 All Notable changes to `laravel-menus` will be documented in this file.
 
+## 10.0.0 - Laravel 10 support
+
+- Drop support for Laravel 9.
+- Require PHP 8.1 or higher.
+- Update the test suite to Laravel 10 and PHPUnit 10.
+
 ## 9.0.0 - Laravel 9 support
 
 - Drop support for Laravel 7 and 8.
